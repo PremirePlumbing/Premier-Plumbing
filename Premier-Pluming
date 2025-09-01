@@ -1,5 +1,4 @@
 index.html
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -64,7 +63,7 @@ index.html
   <section id="services">
     <h2>Our Services</h2>
     <div class="card">
-      <h3>Emergency Plumbing</h3>
+      <h3>❗Emergency Plumbing❗</h3>
       <p>Available 24/7 for leaks, clogs, and urgent plumbing issues.</p>
     </div>
     <div class="card">
@@ -73,20 +72,20 @@ index.html
     </div>
     <div class="card">
       <h3>Maintenance</h3>
-      <p>Keep your home plumbing running smoothly with regular inspections.</p>
+      <p>Keep your home plumbing running smoothly with regular inspections from Master Plumbers.</p>
     </div>
   </section>
 
   <section id="about">
     <h2>About Us</h2>
-    <p>At Premier Plumbing, we’ve been serving the community for over 15 years. Our licensed team is committed to quality service and customer satisfaction.</p>
+    <p>At Premier Plumbing, we’ve been serving the community for over 5 years. Our licensed team is committed to quality service and customer satisfaction.</p>
   </section>
 
   <section id="contact">
     <h2>Contact Us</h2>
     <p>📞 Call us: (555) 123-4567</p>
     <p>📧 Email: contact@premierplumbing.com</p>
-    <p>📍 Location: Your City, State</p>
+    <p>📍 Location: Scott City, Kansas</p>
   </section>
 
   <footer>
