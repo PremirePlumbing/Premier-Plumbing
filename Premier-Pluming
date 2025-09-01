@@ -73,20 +73,20 @@ index.html
     </div>
     <div class="card">
       <h3>Maintenance</h3>
-      <p>Keep your home plumbing running smoothly with regular inspections from master plumers.</p>
+      <p>Keep your home plumbing running smoothly with regular inspections.</p>
     </div>
   </section>
 
   <section id="about">
     <h2>About Us</h2>
-    <p>At Premier Plumbing, we’ve been serving the community for over 5 years. Our licensed team is committed to quality service and customer satisfaction.</p>
+    <p>At Premier Plumbing, we’ve been serving the community for over 15 years. Our licensed team is committed to quality service and customer satisfaction.</p>
   </section>
 
   <section id="contact">
     <h2>Contact Us</h2>
-    <p>📞 Call us: (620) 874-8186</p>
+    <p>📞 Call us: (555) 123-4567</p>
     <p>📧 Email: contact@premierplumbing.com</p>
-    <p>📍 Location: Scott City, Kansas</p>
+    <p>📍 Location: Your City, State</p>
   </section>
 
   <footer>
